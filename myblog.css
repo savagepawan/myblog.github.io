@@ -1,0 +1,22 @@
+{
+color:white;
+margin:0;
+}
+#header
+{background-color:#f6A623;
+height:80px;
+line-height:50px;
+width:2000px;
+}
+.post, .about{
+max-width:800px;
+maargin:0 auto;
+padding:60px 0;
+}
+.about {
+text-align:center;
+}
+.post-author img,
+.about-author img{
+border-radius:90%;
+}
